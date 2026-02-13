@@ -20,6 +20,8 @@ It provides an engaging professional online presence.
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**
+
+  ## Screenshots
 ![Home Page](<img width="1920" height="1080" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/59a114bf-560e-42db-ae65-b2154b6fe02f" />
 )
 ![Projects Section](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ca7d70a-7d95-49bd-bb42-2c6acc5fd121" />)
