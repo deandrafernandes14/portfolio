@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ## Live Demo
-[View Live Site](https://deandrafernandes14.github.io/portfolio/)  
+[View Live Site](file:///C:/Users/Deandra%20Fernandes/OneDrive/Desktop/portfolio/index.html#about)  
 *Deployed via GitHub Pages, a professional showcase of my work.*
 
 ##  Overview
