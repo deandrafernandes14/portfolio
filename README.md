@@ -2,7 +2,7 @@
 
 ## Live Demo
 [View Live Site](https://deandrafernandes14.github.io/portfolio/)  
-*Deployed via GitHub Pages — a professional showcase of my work.*
+*Deployed via GitHub Pages, a professional showcase of my work.*
 
 ##  Overview
 This is my **personal portfolio website** built with HTML, CSS, and JavaScript.  
